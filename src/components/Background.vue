@@ -39,13 +39,7 @@ const bgRandom = Math.floor(Math.random() * 10 + 1);
 // 更换壁纸链接
 const changeBg = (type) => {
   if (type == 0) {
-    bgUrl.value = `/images/background${bgRandom}.jpg`;
-  } else if (type == 1) {
-    bgUrl.value = "https://api.dujin.org/bing/1920.php";
-  } else if (type == 2) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/views";
-  } else if (type == 3) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
+    bgUrl.value = `/images/background${bgRandom}.png`;
   }
 };
 
@@ -76,7 +70,7 @@ const imgLoadError = () => {
       fill: "#efefef",
     }),
   });
-  bgUrl.value = `/images/background${bgRandom}.jpg`;
+  bgUrl.value = `/images/background${bgRandom}.png`;
 };
 
 // 监听壁纸切换
