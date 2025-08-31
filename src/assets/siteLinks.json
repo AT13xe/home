@@ -1,37 +1,27 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "fuwari博客",
+    "link": "https://blog.at13xe.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Blog",
+    "name": "Blue Archive博客",
+    "link": "https://ba.blog.at13xe.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Film",
+    "name": "电影",
+    "link": "https://tv.at13xe.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Wallpaper24Filled",
+    "name": "随机图",
+    "link": "https://pic.at13xe.top/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Blog",
+    "name": "统计",
+    "link": "https://umami.at13xe.top/share/JaCVkX59PnWKQwi0"
   },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
-  }
 ]
