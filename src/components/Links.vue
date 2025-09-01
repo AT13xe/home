@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Film } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Film, ChartBar } from "@vicons/fa"; // 注意使用正确的类别
 import { AlignBottom20Filled, Wallpaper24Filled } from "@vicons/fluent";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
