@@ -10,18 +10,13 @@
     "link": "https://ba.blog.at13xe.top/"
   },
   {
-    "icon": "Film",
-    "name": "电影",
-    "link": "https://tv.at13xe.top/"
-  },
-  {
     "icon": "FileImage",
     "name": "随机图",
     "link": "https://pic.at13xe.top/"
   },
   {
     "icon": "ChartBar",
-    "name": "统计",
+    "name": "博客统计",
     "link": "https://umami.at13xe.top/share/JaCVkX59PnWKQwi0"
   }
 ]
